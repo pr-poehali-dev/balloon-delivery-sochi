@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				balloon: {
+					pink: '#FF6B9D',
+					turquoise: '#EECDC4', 
+					yellow: '#FFFF37',
+					white: '#FFFFFF',
+					cheerful: '#FFD700'
 				}
 			},
 			borderRadius: {
